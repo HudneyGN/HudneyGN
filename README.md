@@ -1,5 +1,5 @@
 # HudneyGN
-## Olá, eu sou o Nicolas Machado Fogaça! 👋
+<h2>Olá, eu sou o Hudney Gomes Nunes! 👋</h2> 
 
 https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://[www.instagram.com/n.machad0/](https://www.instagram.com/hud_gn/))
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/hudney-gomes-nunes-095241192)
@@ -7,7 +7,7 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
 
 !https://github-readme-stats.vercel.app/api?username=nicolasmachad0&show_icons=true&theme=radical
 
-## Conhecimentos que utilizo no meu dia-a-dia: 👨‍💻
+ <h2>Conhecimentos que utilizo no meu dia-a-dia: 👨‍💻</h2>
 
 <div style="display: inline_block">
 
