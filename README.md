@@ -8,7 +8,7 @@
     <header>
         <div class="container">
             <h1>Hudney Gomes Nunes</h1>
-            <p>Brasileiro, Casado | Idade: 34 | Sorocaba, SP</p>
+            <p>Brasileiro, Sorocaba-SP</p>
             <p>Telefone: (15) 991016731 / (15) 988049013</p>
             <p>Email: <a href="mailto:hudneygn@gmail.com">hudneygn@gmail.com</a></p>
         </div>
