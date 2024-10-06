@@ -27,36 +27,36 @@ Estas são as tecnologias e ferramentas com as quais trabalho:
 
 ---
 
-## 📂 **Projects I'm Proud Of**
+## 📂 **Projetos dos quais tenho orgulho**
 
-Here are a few projects I've been working on:
+Aqui estão alguns projetos nos quais tenho trabalhado:
 
 - **Task Management API**  
-  _A RESTful API built with ASP.NET Core for managing tasks with CRUD functionality, utilizing Entity Framework Core for database interaction._  
+  _Uma API RESTful criada com ASP.NET Core para gerenciar tarefas com funcionalidade CRUD, utilizando Entity Framework Core para interação com banco de dados._
   [Check it out on GitHub](https://github.com/HudneyG/TaskManagementAPI)
 
 - **Portfolio Website**  
-  _A personal portfolio website created using HTML5, CSS3, and a bit of JavaScript to showcase my skills and projects._  
+  _Um site de portfólio pessoal criado usando HTML5, CSS3 e um pouco de JavaScript para mostrar minhas habilidades e projetos. 
   [Visit the repo](https://github.com/HudneyG/portfolio)
 
 - **Inventory System**  
-  _An inventory management system developed for a small business using C#, Windows Forms, and SQL Server._  
+  _Um sistema de gerenciamento de estoque desenvolvido para uma pequena empresa usando C#, Windows Forms e SQL Server._  
   [See the code](https://github.com/HudneyG/InventorySystem)
 
 ---
 
-## 🤔 **Fun Facts About Me**
+## 🤔 **Curiosidades sobre mim**
 
-- 💡 I started my tech journey working as an **Almoxarife**, and now I’m coding every day!
-- 🎸 When I'm not coding, you might find me learning to play the guitar or reading about tech innovations.
-- 🌍 I love exploring new tech trends, and I'm currently diving deep into **cloud computing** and **machine learning**.
-- 🍕 Huge pizza lover. 🍕 (Who isn't, right?)
+- 💡 Comecei minha jornada tecnológica trabalhando como **Almoxarife**, e agora estou programando todos os dias!
+- 🎸 Quando não estou programando, você pode me encontrar aprendendo a tocar violão ou lendo sobre inovações tecnológicas.
+- 🌍 Adoro explorar novas tendências tecnológicas, e atualmente estou mergulhando fundo em **computação em nuvem** e **aprendizado de máquina**.
+- 🍕 Grande amante de pizza. 🍕 (Quem não é, certo?)
 
 ---
 
-## 📫 **Connect with Me**
+## 📫 **Conecte-se comigo**
 
-Feel free to reach out! I’m always open to discussing new ideas, tech trends, or just talking about life in general.
+Sinta-se à vontade para entrar em contato! Estou sempre aberto a discutir novas ideias, tendências tecnológicas ou apenas falar sobre a vida em geral.
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudney-gomes-nunes-095241192/)
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HudneyG)
@@ -64,5 +64,5 @@ Feel free to reach out! I’m always open to discussing new ideas, tech trends, 
 
 ---
 
-⭐ **Fun Tip**: I believe that the best way to learn is by doing. So, never stop experimenting with code and building cool stuff!
+⭐ **Dica divertida**: Acredito que a melhor maneira de aprender é fazendo. Então, nunca pare de experimentar com código e construir coisas legais!
 
