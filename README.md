@@ -50,7 +50,6 @@ Aqui estão alguns projetos nos quais tenho trabalhado:
 - 💡 Comecei minha jornada tecnológica trabalhando como **Almoxarife**, e agora estou programando todos os dias!
 - 🎸 Quando não estou programando, você pode me encontrar aprendendo a tocar violão ou lendo sobre inovações tecnológicas.
 - 🌍 Adoro explorar novas tendências tecnológicas, e atualmente estou mergulhando fundo em **computação em nuvem** e **aprendizado de máquina**.
-- 🍕 Grande amante de pizza. 🍕 (Quem não é, certo?)
 
 ---
 
