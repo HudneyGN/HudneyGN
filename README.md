@@ -1,13 +1,12 @@
-# 👋 Hey, I'm Hudney Gomes Nunes!
-
+#👋 Olá, sou Hudney Gomes Nunes!
 ### 🚀 Back-End Developer | Asp.Net Core | C# Enthusiast | Tech Lover
 
-Welcome to my corner of the digital world! I'm a passionate back-end developer and tech enthusiast, always eager to learn and grow. Here you'll find some of the projects I've been working on, my journey in tech, and what I love doing in my spare time.
+Bem-vindo ao meu cantinho do mundo digital! Sou um desenvolvedor back-end apaixonado e entusiasta de tecnologia, sempre ansioso para aprender e crescer. Aqui você encontrará alguns dos projetos em que venho trabalhando, minha jornada na tecnologia e o que adoro fazer nas horas vagas.
 
 ---
 
 ## 🛠️ **Tech Stack & Tools**  
-These are the technologies and tools I work with:
+Estas são as tecnologias e ferramentas com as quais trabalho:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -19,7 +18,7 @@ These are the technologies and tools I work with:
 
 ---
 
-## 🌱 **A Little About Me**
+## 🌱 **Um pouco sobre mim**
 
 - 🔭 Currently working as **Back-End Developer** and **IT Support Specialist** at Ipanema Distribuidora.
 - 🌱 Learning new things every day, focusing on improving my **C#** and **Azure** skills.
