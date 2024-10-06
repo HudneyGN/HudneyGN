@@ -40,7 +40,7 @@ Aqui estão alguns projetos nos quais tenho trabalhado:
   [Visit the repo](https://github.com/HudneyG/portfolio)
 
 - **Inventory System**  
-  _Um sistema de gerenciamento de estoque desenvolvido para uma pequena empresa usando C#, Windows Forms e SQL Server._  
+  _Um sistema de gerenciamento de estoque desenvolvido para uma pequena empresa usando C#, Windows Forms e MySql._  
   [See the code](https://github.com/HudneyG/InventorySystem)
 
 ---
