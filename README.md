@@ -1,114 +1,69 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <title>Hudney Gomes Nunes - Desenvolvedor Back-End C# | TI</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: #282c34;
-            color: white;
-            padding: 20px;
-            text-align: center;
-        }
-        header h1 {
-            margin: 0;
-        }
-        section {
-            padding: 20px;
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        section h2 {
-            color: #333;
-        }
-        .skills, .experience, .contact {
-            margin-bottom: 30px;
-        }
-        .skills ul, .experience ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        .skills li, .experience li {
-            background: #ddd;
-            margin: 5px 0;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        footer {
-            text-align: center;
-            background-color: #282c34;
-            color: white;
-            padding: 10px;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-        footer a {
-            color: #61dafb;
-            text-decoration: none;
-        }
-    </style>
-</head>
-<body>
+# 👋 Hey, I'm Hudney Gomes Nunes!
 
-<header>
-    <h1>Hudney Gomes Nunes</h1>
-    <p>Desenvolvedor Back-End C# | Suporte de TI | Análise de Sistemas</p>
-</header>
+### 🚀 Back-End Developer | Asp.Net Core | C# Enthusiast | Tech Lover
 
-<section>
-    <h2>Sobre Mim</h2>
-    <p>Profissional de TI apaixonado por tecnologia, com sólida experiência em Suporte de TI e Desenvolvimento Back-End C# .NET. Busco constantemente aprimorar minhas habilidades técnicas e linguísticas para atuar em projetos desafiadores e inovadores.</p>
-</section>
+Welcome to my corner of the digital world! I'm a passionate back-end developer and tech enthusiast, always eager to learn and grow. Here you'll find some of the projects I've been working on, my journey in tech, and what I love doing in my spare time.
 
-<section class="skills">
-    <h2>Habilidades Técnicas</h2>
-    <ul>
-        <li>C# | .NET Core | ASP.NET Core</li>
-        <li>SQL | MySQL | SQL Server | Entity Framework Core</li>
-        <li>Desenvolvimento Web (HTML, CSS, JavaScript)</li>
-        <li>Banco de Dados em Nuvem (DP-900)</li>
-        <li>Azure AI-900</li>
-        <li>Redes de Computadores</li>
-    </ul>
-</section>
+---
 
-<section class="experience">
-    <h2>Experiência Profissional</h2>
-    <ul>
-        <li><strong>Ipanema Distribuidora (Farma Ponte)</strong> - Suporte de TI (19/02/2024 - até o momento)</li>
-        <li><strong>Alberflex Indústria de Móveis</strong> - Almoxarife (13/09/2021 – 16/02/2024)</li>
-        <li><strong>ICA Telecomunicações</strong> - Técnico de Telecomunicações (10/11/2020 - 02/08/2021)</li>
-    </ul>
-</section>
+## 🛠️ **Tech Stack & Tools**  
+These are the technologies and tools I work with:
 
-<section class="certifications">
-    <h2>Certificações</h2>
-    <ul>
-        <li>AI-900 Azure Fundamentals - Senai (2022)</li>
-        <li>DP-900 Banco de Dados em Nuvem - Senai (2022)</li>
-        <li>Programação Orientada a Objetos com C# - Udemy (2022)</li>
-        <li>Arquitetura de Redes - Udemy (2022)</li>
-        <li>Suporte Técnico na Prática - Udemy (2024)</li>
-    </ul>
-</section>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-<section class="contact">
-    <h2>Contato</h2>
-    <p>📧 Email: <a href="mailto:hudneygn@gmail.com">hudneygn@gmail.com</a></p>
-    <p>📞 Telefone: (15) 991016731 / (15) 988049013</p>
-    <p>🌐 LinkedIn: <a href="https://www.linkedin.com/in/hudney-gomes-nunes-095241192/" target="_blank">Perfil LinkedIn</a></p>
-    <p>🌐 GitHub: <a href="https://github.com/HudneyG" target="_blank">github.com/HudneyG</a></p>
-</section>
+---
 
-<footer>
-    <p>&copy; 2024 Hudney Gomes Nunes | <a href="https://github.com/HudneyG" target="_blank">GitHub</a></p>
-</footer>
+## 🌱 **A Little About Me**
 
-</body>
-</html>
+- 🔭 Currently working as **Back-End Developer** and **IT Support Specialist** at Ipanema Distribuidora.
+- 🌱 Learning new things every day, focusing on improving my **C#** and **Azure** skills.
+- 🧑‍🎓 Graduating in **Análise e Desenvolvimento de Sistemas** at UNIP (Fev 2022 - Jul 2024).
+- 🎯 My goals: Build robust, scalable applications and always keep learning.
+
+---
+
+## 📂 **Projects I'm Proud Of**
+
+Here are a few projects I've been working on:
+
+- **Task Management API**  
+  _A RESTful API built with ASP.NET Core for managing tasks with CRUD functionality, utilizing Entity Framework Core for database interaction._  
+  [Check it out on GitHub](https://github.com/HudneyG/TaskManagementAPI)
+
+- **Portfolio Website**  
+  _A personal portfolio website created using HTML5, CSS3, and a bit of JavaScript to showcase my skills and projects._  
+  [Visit the repo](https://github.com/HudneyG/portfolio)
+
+- **Inventory System**  
+  _An inventory management system developed for a small business using C#, Windows Forms, and SQL Server._  
+  [See the code](https://github.com/HudneyG/InventorySystem)
+
+---
+
+## 🤔 **Fun Facts About Me**
+
+- 💡 I started my tech journey working as an **Almoxarife**, and now I’m coding every day!
+- 🎸 When I'm not coding, you might find me learning to play the guitar or reading about tech innovations.
+- 🌍 I love exploring new tech trends, and I'm currently diving deep into **cloud computing** and **machine learning**.
+- 🍕 Huge pizza lover. 🍕 (Who isn't, right?)
+
+---
+
+## 📫 **Connect with Me**
+
+Feel free to reach out! I’m always open to discussing new ideas, tech trends, or just talking about life in general.
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudney-gomes-nunes-095241192/)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HudneyG)
+- 📧 Email: [hudneygn@gmail.com](mailto:hudneygn@gmail.com)
+
+---
+
+⭐ **Fun Tip**: I believe that the best way to learn is by doing. So, never stop experimenting with code and building cool stuff!
+
