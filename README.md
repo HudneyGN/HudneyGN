@@ -20,10 +20,10 @@ Estas são as tecnologias e ferramentas com as quais trabalho:
 
 ## 🌱 **Um pouco sobre mim**
 
-- 🔭 Currently working as **Back-End Developer** and **IT Support Specialist** at Ipanema Distribuidora.
-- 🌱 Learning new things every day, focusing on improving my **C#** and **Azure** skills.
-- 🧑‍🎓 Graduating in **Análise e Desenvolvimento de Sistemas** at UNIP (Fev 2022 - Jul 2024).
-- 🎯 My goals: Build robust, scalable applications and always keep learning.
+- 🔭 Atualmente trabalhando como **Desenvolvedor Back-End** e **Especialista em Suporte de TI** na Ipanema Distribuidora.
+- 🌱 Aprendendo coisas novas todos os dias, com foco em melhorar minhas habilidades em **C#** e **Azure**.
+- 🧑‍🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela UNIP (Fev 2022 - Jul 2024).
+- 🎯 Meus objetivos: Construir aplicativos robustos e escaláveis ​​e continuar aprendendo sempre.
 
 ---
 
