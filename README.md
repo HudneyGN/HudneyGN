@@ -20,7 +20,7 @@ Estas são as tecnologias e ferramentas com as quais trabalho:
 
 ## 🌱 **Um pouco sobre mim**
 
-- 🔭 Atualmente trabalhando como **Desenvolvedor Back-End** e **Especialista em Suporte de TI** na Ipanema Distribuidora.
+- 🔭 Atualmente trabalhando como **Analista de suporte de TI** na Ipanema Distribuidora.
 - 🌱 Aprendendo coisas novas todos os dias, com foco em melhorar minhas habilidades em **C#** e **Azure**.
 - 🧑‍🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela UNIP (Fev 2022 - Jul 2024).
 - 🎯 Meus objetivos: Construir aplicativos robustos e escaláveis ​​e continuar aprendendo sempre.
